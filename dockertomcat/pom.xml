@@ -151,7 +151,7 @@
     
   </dependencies>
   <build>
-    <finalName>dockertomcatDemo
+    <finalName>dockertomcatdemo
 </finalName>
   </build>
 </project>
