@@ -152,7 +152,9 @@
   </dependencies>
 	
 	
-	<plugin>
+	
+  <build>
+	  <plugin>
     <groupId>org.apache.maven.plugins</groupId>
     <artifactId>maven-compiler-plugin</artifactId>
     <configuration>
@@ -160,7 +162,7 @@
         <target>1.6</target>
     </configuration>
 </plugin>
-  <build>
+	  
     <finalName>dockertomcatdemo
 </finalName>
   </build>
